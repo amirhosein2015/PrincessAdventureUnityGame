@@ -1,7 +1,8 @@
 # 🎮 Princess Adventure – Unity 3D
 *A 3D Adventure Game built with Unity & C#*
 
-![p-06](https://github.com/user-attachments/assets/52e1ffbc-ff47-43d7-b263-8299e0e1d7c7)
+![p-06](https://github.com/user-attachments/assets/d9e0e868-7dad-48cd-b020-789db51a76e2)
+
 
 
 ---
